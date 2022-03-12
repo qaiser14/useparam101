@@ -1,0 +1,15 @@
+.App{
+
+  height: 80vh;
+  width: 20vw;
+  border: 2px solid black;
+
+}
+
+.App > .border{
+
+  margin-top: 5vh;
+  height: 50vh;
+  width: 15vw;
+  border: 2px solid black;
+}
